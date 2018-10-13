@@ -18,12 +18,12 @@
 	</em:targetApplication>
 
 	<!-- Extension's ID and type -->
-	<em:id>moonscape-windowicons@franklindm</em:id>
+	<em:id>moonscape-iconpack@franklindm</em:id>
 	<!-- Types: 2=Extensions, 4=Themes, 8=Locale, 16=Plugin, 32=Multiple Item Package -->
 	<em:type>2</em:type>
 
 	<!-- Extension's info and metadata -->
-	<em:name>Moonscape Window Icons</em:name>
+	<em:name>Moonscape Icon Pack</em:name>
 	<em:version>dev-build</em:version>
 	<em:description>Modifies the window icons to match Netscape 4.x.</em:description>
 	<em:creator>FranklinDM</em:creator>

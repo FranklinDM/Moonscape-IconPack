@@ -1,7 +1,7 @@
-# Moonscape Window Icons
+# Moonscape Icon Pack
+An extension that modifies the window icons to match Netscape 4.x.
 
-## License
-[Creative Commons — Attribution-NonCommercial-ShareAlike 3.0 Unported - CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0)
+Compatible with Pale Moon and Interlink Mail & News.
 
 ## Building
 Simply download the contents of the "src" folder and pack the contents into a .zip file. Then, rename the file to .xpi and drag into the browser.
